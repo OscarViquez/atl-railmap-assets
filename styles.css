@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Author', sans-serif;
+}
+
+body {
+    padding: 2vh 2rem;
+}
+
+h2 {
+    font-weight: 500;
+}
+
+h3 {
+    font-weight: 500;
+}
+
+
+.asset-logo {
+    display: inline-block;
+    width: 300px;
+    margin-left: 2rem;
+    border: 2px solid #1e1e1e;
+    border-radius: 5px;
+    padding: 1rem;
+}
