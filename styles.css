@@ -10,6 +10,8 @@ body {
 
 h2 {
     font-weight: 500;
+    border-bottom: #1e1e1e 1px solid;
+    margin-bottom: 1rem;
 }
 
 h3 {
